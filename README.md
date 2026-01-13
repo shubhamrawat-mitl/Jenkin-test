@@ -10,4 +10,6 @@ class Maths:
     def add(self):
         pass
     def multiplication(self):
-        pass
+        # Changes By developer A
+        result = self.num1 * self.num2
+        return result
